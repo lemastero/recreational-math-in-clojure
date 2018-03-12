@@ -10,8 +10,10 @@ lein autoexpect
 
 Sequence of positive integers, next integer is
 
+```
 f(n) = 3*n + 1 if n is odd
        n/2     if n is even
+```
 
 No matter what starting number we pick, this sequence will always reach 1.
 
